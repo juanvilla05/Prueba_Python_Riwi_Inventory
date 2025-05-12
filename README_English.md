@@ -110,4 +110,4 @@ The program's logic focuses on manipulating the `inventory` list.
 * **Calculate Total Value:** The `inventory` list is traversed. For each product, its price is multiplied by its quantity, and the result is added to an accumulator. Finally, the total is displayed.
 * **Main Menu:** The `main()` function presents a `while` loop that displays the options to the user and executes the corresponding function based on their choice. The loop breaks when the user chooses the exit option.
 
-We hope this system is very useful for managing your store! 😊
+I hope this README guides you and is very useful to understand the functions and structure of the store! 😊
