@@ -2,6 +2,9 @@
 
 ¡Bienvenido al sistema de gestión de inventario de tu tienda! 📦 Este programa en Python te permite llevar un control detallado de tus productos, desde añadirlos hasta calcular el valor total de tu stock. ¡Manos a la obra!
 
+## 📘 Version Ingles
+[Click here to see English version](README_English.md)
+
 ## ⚙️ Instrucciones de Ejecución
 
 Para poner en marcha este sistema, sigue estos sencillos pasos:
