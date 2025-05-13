@@ -3,6 +3,9 @@
 Welcome to your store's inventory management system! 📦 This Python program allows you to keep detailed track of your products, from adding them to calculating the total value of your stock. Let's get started!
 
 ## ⚙️ Execution Instructions
+[Ingrese aquí versión en Español](README.md)
+
+## ⚙️ Execution Instructions
 
 To run this system, follow these simple steps:
 
